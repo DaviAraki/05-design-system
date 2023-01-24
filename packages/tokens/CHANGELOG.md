@@ -1,5 +1,11 @@
 # @daviaraki-ui/tokens
 
+## 4.0.0
+
+### Major Changes
+
+- add new color
+
 ## 3.1.0
 
 ### Minor Changes
