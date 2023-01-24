@@ -1,0 +1,2 @@
+import{T as t}from"./index-c9bd032d.js";import"./index-6a3cdb98.js";import"./es.object.get-own-property-descriptor-030f8564.js";import"./index-d9fa47c7.js";import"./jsx-runtime-50042a16.js";const m={title:"Typography/Text",component:t,args:{children:"Testando o elemento Text"}},n={},i={args:{as:"strong"}},p=["Primary","CustomTag"];export{i as CustomTag,n as Primary,p as __namedExportsOrder,m as default};
+//# sourceMappingURL=Text.stories-905d7b19.js.map
