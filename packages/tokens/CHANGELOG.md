@@ -1,5 +1,11 @@
 # @daviaraki-ui/tokens
 
+## 3.0.0
+
+### Major Changes
+
+- remove test
+
 ## 2.0.0
 
 ### Major Changes
